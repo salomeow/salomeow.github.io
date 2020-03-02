@@ -1,5 +1,5 @@
 
-lofter: salomeow
+lofter: [salomeow](https://salomeow.lofter.com/)
 <br>
 ## 短篇完结
 [【名夏】罗密欧与茱丽叶](romeo_juliet.md)<br>
