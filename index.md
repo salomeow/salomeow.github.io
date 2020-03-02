@@ -9,4 +9,5 @@ lofter: [salomeow](https://salomeow.lofter.com/)
 【名夏】杂记事 
 - [章五](stories_05.md)<br>
 - [章八](docs/stories_08.md)<br>
+- [章十](docs/stories_10.md)<br>
 
