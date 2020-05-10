@@ -7,6 +7,7 @@ lofter: [salomeow](https://salomeow.lofter.com/)
 [【神加】还未正式告白就要被谋杀的我还能获得第二次机会吗](docs/confession.md)<br>
 [【加神】crossing the line](docs/crossing-the-line.md)<br>
 [【神加】热带季风](docs/tropical-wind.md)<br>
+[【神加】紧急制动](docs/emergency-break.md)<br>
 
 ## 长篇完结
 【名夏】杂记事 
